@@ -71,15 +71,7 @@
 
 ---
 
-<div align="center">
-
-## 🛠️ Tech Arsenal ⚙️
-
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,mysql,java,c,cpp,php&theme=dark" />
-<br>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,git,github,postman,vscode&theme=dark" />
-
-</div>
+ 
 
 ---
 
@@ -92,11 +84,6 @@
 | **School Management System (MedNova School)** | PHP, MySQL, Cloudinary | Student management, admissions, attendance, staff dashboard, and role-based access | [Live Demo](https://skyschool.mednova.store/) |
 | **Hospital Management System (MedNova Hospital)** | MERN, MongoDB, Cloudinary | Appointment booking, medicine ordering, admin dashboard, and secure medical data handling | [Live Demo](https://mednova-frontend.onrender.com/) |
 | **Real-Time Chat Application** | MERN ,MongoDB, Cloudinary| User authentication, real-time messaging, and responsive chat UI | [GitHub](https://github.com/Sanjeev-k-11/chat) |
-| **Developer Portfolio Website** | PHP, Tailwind CSS | Personal portfolio showcasing projects, skills, and contact information | [Live Demo](https://codecraft.mednova.store/) |
-| **Basic public school ( School)** | PHP, MySQL, Cloudinary | Student management, admissions, attendance, staff dashboard, and role-based access | [Live Demo](https://school.mednova.store) |
-| **Agro Management System** | MERN, MongoDB | Farmer dashboard, crop management, notifications, and admin control panel | [Live Demo](https://github.com/Sanjeev-k-11/agro) |
-| **Alumni Portal** | PHP, MySQL | Alumni networking, events, job postings, and role-based access system | [Live Demo](lpualumnik23df.infy.uk) |
-
 
 
 
