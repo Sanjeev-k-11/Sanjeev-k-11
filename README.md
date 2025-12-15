@@ -129,9 +129,4 @@
 
 <!-- FOOTER TERMINAL EFFECT -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39F702&width=480&lines=git+commit+-m+'Thanks+for+visiting!';git+push+origin+main" />
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Sanjeev-k-11&label=Profile+Views&color=blueviolet&style=flat-square"/>
-
 </div>
