@@ -62,7 +62,9 @@
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjeev-k-11&theme=tokyonight&hide_border=true"/>
+<img width="95%"
+     src="https://github-readme-streak-stats.vercel.app/?user=Sanjeev-k-11&theme=tokyonight&hide_border=true&ring=22c55e&fire=22c55e&currStreakLabel=22c55e"/>
+
 
 </td>
 
